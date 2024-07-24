@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meet_Kadiya_Project2</string>
+    <string name="create_a_account">Want to create a account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Log_in">Log In</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="email">Enter Email</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password??</string>
+    <string name="continue_btn">Continue</string>
+</resources>

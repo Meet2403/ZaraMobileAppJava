@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616396958248",
+    "project_id": "meet-kadiya-project2",
+    "storage_bucket": "meet-kadiya-project2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616396958248:android:cc79de6c25be2eb5cce31d",
+        "android_client_info": {
+          "package_name": "com.example.meet_kadiya_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dqEDO1jXa2OfBlYeR6hwClXD28oCOGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
